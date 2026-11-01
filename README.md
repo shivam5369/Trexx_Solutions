@@ -116,11 +116,6 @@ The site can be deployed to **Vercel**, **Netlify** or any static host:
 
 ---
 
-## 📬 Contact
 
-- **Email:** [shivamsaini76203@gmail.com](mailto:shivamsaini76203@gmail.com)
-- **Phone / WhatsApp:** [+91 76203 59189](https://wa.me/917620359189)
-
----
 
 © TREXX Solutions. All rights reserved.
